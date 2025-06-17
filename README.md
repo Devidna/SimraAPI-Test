@@ -1,6 +1,6 @@
 # SimraAPI-Test 🚀
 
-Automation testing project menggunakan **Java + Selenium + Cucumber + TestNG** untuk menguji alur checkout dan login/logout di situs [SauceDemo](https://www.saucedemo.com/v1/index.html).
+Automation testing project menggunakan **Java + Selenium + Cucumber + TestNG** untuk pengujian di situs [SauceDemo](https://www.saucedemo.com/v1/index.html).
 
 ---
 
