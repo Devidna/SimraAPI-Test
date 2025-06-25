@@ -1,4 +1,4 @@
-# SimraAPI-Test 🚀
+# Selenium-Swaglabs
 
 Automation testing project menggunakan **Java + Selenium + Cucumber + TestNG** untuk pengujian di situs [SauceDemo](https://www.saucedemo.com/v1/index.html).
 
