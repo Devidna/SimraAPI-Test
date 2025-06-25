@@ -26,6 +26,5 @@ Automation testing project menggunakan **Java + Selenium + Cucumber + TestNG** u
 - TestNG
 - Cucumber (BDD)
 - WebDriverManager
-- Apache Commons IO
 
 ---
